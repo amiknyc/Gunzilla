@@ -1,11 +1,9 @@
-# Node
-node_modules/
-**/node_modules/
-
-# Next.js
-.next/
-**/.next/
-
-# Env
-.env.local
-**/.env.local
+**/node_modules
+**/.next
+**/.turbo
+**/dist
+**/out
+**/*.log
+**/.env
+**/.env.*
+.DS_Store
